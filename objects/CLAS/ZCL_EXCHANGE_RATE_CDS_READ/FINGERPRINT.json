@@ -1,0 +1,62 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_EXCHANGE_RATE_CDS_READ====CCAU.abap",
+   "fingerprint":"q+2ngqfey14yZG+taPLewP5IP+7klCtgwPC7BKgJomX4tjnxsfbMzsuJAah+lGGM5RQe8Ydq1DChX6zEr0JY0w=="
+  },
+  {
+   "name":"CINC ZCL_EXCHANGE_RATE_CDS_READ====CCDEF.abap",
+   "fingerprint":"UczwYU5DphCq7j0ogjBVGxkZEViMBwPzbO8chizlcjPZ2hfS58WjMB+tUJZrzd4ZVCR6pNoMOvjTS9VnWlRUeg=="
+  },
+  {
+   "name":"CINC ZCL_EXCHANGE_RATE_CDS_READ====CCIMP.abap",
+   "fingerprint":"Msyxd/QmMGWDVb6Yj0u2Mj/cE6pzlwUoB9xQKxVFrGjVve6biUOlWEhFm2NfTzVQu+X1+Ecn3C1RwnY0qyNTdQ=="
+  },
+  {
+   "name":"CINC ZCL_EXCHANGE_RATE_CDS_READ====CCMAC.abap",
+   "fingerprint":"ARlJhewH6VK4k6D9FhMbtVT8Q0qGmL1gGuuoy0PLZtVCAqHW8QgTh4QzT853VcCvJgkQF+JGanGKuAGycLAwLA=="
+  },
+  {
+   "name":"CLAS ZCL_EXCHANGE_RATE_CDS_READ.asx.json",
+   "fingerprint":"XNeU7xvgXqzW07SNt3WBB4sRvN65uzESyYO7mqcNt3IRDChQnz2xtyeI9m33XRQT2pLGmPrdkeYCdWY2EDSyQQ=="
+  },
+  {
+   "name":"CLSD ZCL_EXCHANGE_RATE_CDS_READ.abap",
+   "fingerprint":"t5YIAW1S2Dpt69uiFZPwDxRzKTzvwq28FcQkn/J1F/l1I0sqzw/mTtUen0vrfC+15RxRHU/e9iv3pQ1scsgGag=="
+  },
+  {
+   "name":"CPRI ZCL_EXCHANGE_RATE_CDS_READ.abap",
+   "fingerprint":"QFIVU1emzsko3e9HFQxm8bYNOxrdYUs+LIHpQ/Y+J4dNznedP7PhwkhC0z2A9S4DeV7ibtpl4wPofkcfIOt6bQ=="
+  },
+  {
+   "name":"CPRO ZCL_EXCHANGE_RATE_CDS_READ.abap",
+   "fingerprint":"josfAlpXmyG3zHbW//ifJd9RSRWvkv9w6wq+SrO4Uo5mLrwcjsb8Dr3B7a08A5rEwvJIBVu/yogxlxHxH8x8OQ=="
+  },
+  {
+   "name":"CPUB ZCL_EXCHANGE_RATE_CDS_READ.abap",
+   "fingerprint":"yYEGPRz18z11JHK4C8eeEaGevB+QR2FtGUoRreVQz5h8YPwxLytICHdU7SNCv4OjzG45yLRzK4Q5IyLhBW0gYQ=="
+  },
+  {
+   "name":"METH GET_EXCHANGE_RATE.abap",
+   "fingerprint":"hjuVoDUw37or+JURfmT23KzDF5TnU+twI0MNEV76NPHK7wqyZMWcDrICnlpDsNhv0xejK0KbZflVtlMdjWVWyQ=="
+  },
+  {
+   "name":"METH IF_RAP_QUERY_PROVIDER~SELECT.abap",
+   "fingerprint":"RyQRA94xs7ny7fX8E9RZDrtF0Ki+RnoCR8PxLjdUV/LbMt5MEcQnPw58CRu7puo0+AorY5tLRCBUDCYie0jhzQ=="
+  },
+  {
+   "name":"METH INITIALIZATION.abap",
+   "fingerprint":"LMfZl2XgAzqs8GG+pG4Zvf9lohz13nagvKmQC6lUIFsuECH7pVIX84MBeghJDbdfMa6hSIgWHyTNlqzdYE9D5Q=="
+  },
+  {
+   "name":"REPS ZCL_EXCHANGE_RATE_CDS_READ====CT.abap",
+   "fingerprint":"nNxrTn+ZS+WBZ/euD1ZgKjITV4cIywdAlwj0g+phAsDXOlb1LyjhTfuabSuefNeJykydf9N+sVF9A5K4WDG6/g=="
+  },
+  {
+   "name":"REPT ZCL_EXCHANGE_RATE_CDS_READ====CP.asx.json",
+   "fingerprint":"65jGSIGvvdWNoeuGXXsNsBQmhp6v9qpB9rn8Qxv+CJIX8uXz0YAB7TZ2WpQRXVi5u9S5VA7rbG9r7ex7qBVLOg=="
+  }
+ ],
+ "fingerprintAll":"WfZ6KGufUAms4ADwgSTarl5hcrjLm3KplAz6iPjwHK+x47fppMh2ytTMz8F7kSwgCa3FhF+AUmoG4thi2XEWkA=="
+}

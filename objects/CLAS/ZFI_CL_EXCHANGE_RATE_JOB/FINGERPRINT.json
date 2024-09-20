@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZFI_CL_EXCHANGE_RATE_JOB======CCDEF.abap",
+   "fingerprint":"KMjFbErzN7dYjTKqtq4bnCwJl+Leoy+7zI6KaGCnw6xxdJgp11v1+xS9gu42qN8b901CKuzn+ftOW1oBd3KCdg=="
+  },
+  {
+   "name":"CINC ZFI_CL_EXCHANGE_RATE_JOB======CCIMP.abap",
+   "fingerprint":"N6Va9f6tmEj6AZuZZhh4SsCNM/Fz+qGlTeAPHsLf/f72tJ0uet7RaCcfd9C495U4RRNCgQz2veHIA+BChbapgw=="
+  },
+  {
+   "name":"CINC ZFI_CL_EXCHANGE_RATE_JOB======CCMAC.abap",
+   "fingerprint":"yM/5wJFVCDWjhkhxRl1Hvoa5KT9EwSE93+2YPN7JSYmcp5wRIJNs7seToNXo2aizXpAtVM85clucRaRiTvD51Q=="
+  },
+  {
+   "name":"CLAS ZFI_CL_EXCHANGE_RATE_JOB.asx.json",
+   "fingerprint":"TYXoV3VXu9qqE9ta4pWLDaxumIVNt3RzilmtT0H/O5FuCLCNGCj6QEDfNf1S2nhX6uIVRqMyKO8YNiicN+rNYA=="
+  },
+  {
+   "name":"CLSD ZFI_CL_EXCHANGE_RATE_JOB.abap",
+   "fingerprint":"VZnrZe2BUd5nbn4Ih/1wEBe9m/5bhClWz1lim9vOonD6k0j1ciDcjguENQsc0URvz/RntL9znKnFkLzyuWZaqg=="
+  },
+  {
+   "name":"CPRI ZFI_CL_EXCHANGE_RATE_JOB.abap",
+   "fingerprint":"86fEkxtusF3ZOp/S8YSN4K5YU8u/2a/euLH2K/06yz6d1VsrVDUGRKfmlNwSIh/UEpMosOkos0k81DS3rigFng=="
+  },
+  {
+   "name":"CPRO ZFI_CL_EXCHANGE_RATE_JOB.abap",
+   "fingerprint":"gaknRPMbVKx1O/pocZwB1es0jDEllqSnUkdICZMwLx7eeM0OOKk/G0iRNzsjJXhq0vie80tWGujV4ZnTa6u9DA=="
+  },
+  {
+   "name":"CPUB ZFI_CL_EXCHANGE_RATE_JOB.abap",
+   "fingerprint":"ZeISwRjKZ2qsTgojdBMbq5Cczy7PH9A7jZZ2JX+M0jgmiyWr5iRIRe2y8Wx/dTNXTpci5RkMelcLAgmiolb8hA=="
+  },
+  {
+   "name":"METH IF_APJ_DT_EXEC_OBJECT~GET_PARAMETERS.abap",
+   "fingerprint":"2fA6jfJkwlaeQ2IPyx/0cGu0Bj3nsg04dsPHE/BeZ+ThwWy95KelSDc2KzIJPS+fwhowO15a7IBZpn/cwymPkA=="
+  },
+  {
+   "name":"METH IF_APJ_RT_EXEC_OBJECT~EXECUTE.abap",
+   "fingerprint":"28hXyuve5Wjlt7tPTRZiTlcIVBDDnBmSQ6NMeY0zI1n4yKclkrnFikRGhYpi/AvDZ6QoioMGdEjfV8h93lo90A=="
+  },
+  {
+   "name":"REPS ZFI_CL_EXCHANGE_RATE_JOB======CT.abap",
+   "fingerprint":"18ZmXzbLORQnwPxvbRviNyDCGWV1/z6wGC7cQMwOSIyzT5WnS54Ih5SRbXysA85CeupJ8bKuF0JbuEC6FuolpA=="
+  }
+ ],
+ "fingerprintAll":"TLBCIp+3FBZB/55Tq2WbQasTxdl3ihWzDwWsZ3l9PcozsAusiOvTF/3F94cBWQikAV3mGNsAVm9c0lYtjzBEIg=="
+}

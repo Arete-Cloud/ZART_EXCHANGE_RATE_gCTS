@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_FI_EXCHANGE_RATE_UTIL=====CCAU.abap",
+   "fingerprint":"30v2MDqs3cn4A7F5YNbeM+idIVUzi6m+9qUq0cK8uY3iARZqRdzgbWcgXqVMoEAYq6dIsnoGPV5vakEgTEARRg=="
+  },
+  {
+   "name":"CINC ZCL_FI_EXCHANGE_RATE_UTIL=====CCDEF.abap",
+   "fingerprint":"FA+EsIeUdksSLES8KFQJ/H6N/3ZT9rpa0DknLdoKtsaXpwzUN23JxzrY0nKg7h84sfxIwYXRDmZ4iN3viNrPXA=="
+  },
+  {
+   "name":"CINC ZCL_FI_EXCHANGE_RATE_UTIL=====CCIMP.abap",
+   "fingerprint":"Os39M84UbCYYFKgP/fSnqbnrbil7WFJ12n/LbQEssAKkKJEqrCVGElcK/st3l4ptdePvp1nRNUuIdYQpGZa91w=="
+  },
+  {
+   "name":"CINC ZCL_FI_EXCHANGE_RATE_UTIL=====CCMAC.abap",
+   "fingerprint":"TzAWxj2bLfBsTPnmX8/P6f7fNrqMGYtPyMPIET44G0xQdoPGIF4KG4rlWWc0MA9JW30BkSV+Z9yAN5JeWhMpKQ=="
+  },
+  {
+   "name":"CLAS ZCL_FI_EXCHANGE_RATE_UTIL.asx.json",
+   "fingerprint":"6/qDO1r2Yr+e1YJNmJGf+u5G1VSX+b7AAnVgtTvIvHXF81p7xjpt3W/aXSJpbd6ElYDiTYjQPe+37NgIGKn3Kw=="
+  },
+  {
+   "name":"CLSD ZCL_FI_EXCHANGE_RATE_UTIL.abap",
+   "fingerprint":"Qtf+7R9rNCghFylBjeTtq6bfO/13A/gGv4rrMxeZGHS/m7M405jMp8fX3kj9g9IbFPIC4H3nhjygMdBvYM8/4w=="
+  },
+  {
+   "name":"CPRI ZCL_FI_EXCHANGE_RATE_UTIL.abap",
+   "fingerprint":"xv4aEOyiRi+JVHfeNaOsobTOB477xgPNYPgBPqk5AAcRSIxnqcmx/9sf2vBaJIqVtdICVyfUQ0yTsTmA0i7DKQ=="
+  },
+  {
+   "name":"CPRO ZCL_FI_EXCHANGE_RATE_UTIL.abap",
+   "fingerprint":"LGkls6GqKYssw1RmL+BP0k5bm2jgxPcutjwjhmuhna6wrlbRgSeHcRE8td3TlxjwhzxPfmp8u4jXSJZtg+zzTA=="
+  },
+  {
+   "name":"CPUB ZCL_FI_EXCHANGE_RATE_UTIL.abap",
+   "fingerprint":"tPd+7uQyJksJE2MWVGGM+3JQV8hT/a38fVP3SgvC/V128F58/br13VoUnPoAQEChhtOuege4f5tgvNhkkvjtGA=="
+  },
+  {
+   "name":"METH UPDATE_EXCHANGE_RATES.abap",
+   "fingerprint":"FFU4aHF7B2orc8oi0syb/edSKVmTB7EcqN5SUuhChN91GnUc9THTvrMIwb5jl4TJhKsqM2Oe2nlPe4ge6Bkk9w=="
+  },
+  {
+   "name":"REPS ZCL_FI_EXCHANGE_RATE_UTIL=====CT.abap",
+   "fingerprint":"IE6FOWMkWvKb2TqKRVj0ZYS1nJ6xmcrCLhnJqPC/ohagPDlE4MbmvgFujz2h0tbkRvlunJ6bO0aO5A5whfBE6A=="
+  }
+ ],
+ "fingerprintAll":"JNzwmjIWltbuwgiz2Uf+3OrU9n8Qljih19xki9zQujdVZa4mNrEelT2CY9KHgOT+SZY5axe4mUf/I2f++NtXVw=="
+}
