@@ -1,0 +1,14 @@
+{
+  "name": "zart_exchange_rate",
+  "version": "1.0.0",
+  "description": "ZART_EXCHANGE_RATE",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/BA2715C15F731EDF9DD1C8244560D238_0"
+  }
+}
